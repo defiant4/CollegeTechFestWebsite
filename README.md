@@ -1,4 +1,4 @@
-# CollegeTechFestWebsite
+# TechFestWebsite
 
 This project was created for the sole usage in the Techno India Batanagar techfest Ingenieria-2015.
 
